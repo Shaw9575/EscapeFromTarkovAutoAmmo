@@ -11,4 +11,4 @@ Automaticly buying AMMOs (995, 855A1, 7N31, BS, APSX, M61), M381, Lab white card
 ![image](https://github.com/Shaw9575/EscapeFromTarkovAutoAmmo/blob/main/ReadMeImage/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-06-24%20181957.png)
 
 # Prepare enough money and let it run!
-
+![image](https://github.com/Shaw9575/EscapeFromTarkovAutoAmmo/blob/main/ReadMeImage/WeChat%20Image_20210624182741.png)
