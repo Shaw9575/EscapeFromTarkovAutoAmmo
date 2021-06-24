@@ -18,3 +18,7 @@ Written by pyautogui and pyqt5.
 # Warning
 This is only for screen definition 1920x1080.  
 If you have different definition. Please read the shell parts and change the range setting.
+
+Range1 is for the inventory size.
+range2 is for the buying button size.  
+range3 is for after you choose buying, it will have a window for like buy all, confirm window.
