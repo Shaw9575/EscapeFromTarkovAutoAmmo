@@ -14,3 +14,7 @@ Written by pyautogui and pyqt5.
 
 # Prepare enough money and let it run!
 ![image](https://github.com/Shaw9575/EscapeFromTarkovAutoAmmo/blob/main/ReadMeImage/WeChat%20Image_20210624182741.png)
+
+# Warning
+This is only for screen definition 1920x1080.  
+If you have different definition. Please read the shell parts and change the range setting.
